@@ -13,5 +13,5 @@ guro.
 
 
 referências:
-[https://rockcontent.com/br/blog/o-que-e-github/] Acessado às 18:20 de 02/06/2022. \n
-[https://www.hostinger.com.br/tutoriais/o-que-github] Acessado às 18:32 de 02/06/2022. \n
+[https://rockcontent.com/br/blog/o-que-e-github/] Acessado às 18:20 de 02/06/2022. Shift+Enter
+[https://www.hostinger.com.br/tutoriais/o-que-github] Acessado às 18:32 de 02/06/2022. Shift+Enter
